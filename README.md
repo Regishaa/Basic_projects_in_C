@@ -1,2 +1,2 @@
-# Basic_projects_in_C
-Basic projects in C
+# Basic_projects_on_C
+Basic projects on C
